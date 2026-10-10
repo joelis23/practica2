@@ -1,0 +1,16 @@
+footer {
+    text-align: center;
+    background-color: aqua;
+    color: black;
+}
+h1 {
+    text-align: center;
+    background-color: aqua;}
+    h2 {color: rgb(165, 101, 224);}
+    h3 {color: rgb(206, 172, 238);}
+    body {
+        background-color: rgb(222, 246, 252);
+    }
+    h2 {
+        background-color: rgb(228, 199, 255);
+    }
